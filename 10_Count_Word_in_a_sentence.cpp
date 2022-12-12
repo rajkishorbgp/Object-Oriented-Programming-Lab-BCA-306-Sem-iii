@@ -11,7 +11,7 @@ int main()
     int i = 0, count = 0;
     string sentence;
 
-    cout << "Enter thr sentence: ";
+    cout << "Enter the sentence: ";
     getline(cin, sentence);
 
     while (sentence[i])
@@ -30,6 +30,6 @@ int main()
 
 /*
     Output:
-    Enter thr sentence: Write a program in C++ to count word in a sentence.
+    Enter the sentence: Write a program in C++ to count word in a sentence.
     11 word is present in a sentence.
 */
