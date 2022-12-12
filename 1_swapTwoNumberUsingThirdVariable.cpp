@@ -8,20 +8,20 @@ using namespace std;
 
 int main()
 {
-    int a, b, c;
-    cout << "Enter the value a= ";
-    cin >> a;
-    cout << "Enter the value b= ";
-    cin >> b;
-    cout << "Befour swap the value " << endl;
-    cout << "a= " << a << endl
-         << "b= " << b << endl;
-    c = a;
-    a = b;
-    b = c;
-    cout << "After swap the value " << endl;
-    cout << "a= " << a << endl
-         << "b= " << b << endl;
+     int a, b, c;
+     cout << "Enter the value a= ";
+     cin >> a;
+     cout << "Enter the value b= ";
+     cin >> b;
+     cout << "Befour swap the value " << endl;
+     cout << "a= " << a << endl;
+     cout << "b= " << b << endl;
+     a = a + b;
+     b = a - b;
+     a = a - b;
+     cout << "After swap the value " << endl;
+     cout << "a= " << a << endl;
+     cout << "b= " << b << endl;
 }
 
 /*
