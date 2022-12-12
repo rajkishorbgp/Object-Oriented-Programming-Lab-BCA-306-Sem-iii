@@ -26,7 +26,7 @@ int main()
 {
     Student s1;
     s1.name = "Raj Kishor";
-    s1.rollNo = 210000106095;
+    s1.rollNo = 211110106095;
     s1.course = "BCA";
     s1.marks = 400;
 
@@ -38,7 +38,7 @@ int main()
 /*
     Output:
     Name: Raj Kishor
-    Roll no: 210000106095
+    Roll no: 211110106095
     Course: BCA
     Marks: 400
 */
