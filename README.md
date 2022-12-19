@@ -39,3 +39,5 @@
 29. * Write a program in C++ Program to find Cube Root of Number.
 30. * Write a program in C++ to print the Pascal’s triangle.
 ---
+![fani](https://th.bing.com/th/id/R.f0c6c10d8450b334a057434c148a1ba5?rik=Q1wJS87A%2b8Ouzw&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fyYSSBtDgbbRzq%2fgiphy.gif&ehk=sQ1c2nQdCY%2b9UaceO%2fGxmxajt4tLel5X43QMg15LaHY%3d&risl=1&pid=ImgRaw&r=0)
+---
