@@ -12,7 +12,7 @@
 3. * Write a C++ Program to find Fibonacci Series.
 4. * Write a C++ Program to Check given number is Prime number or not.
 5. * Write a C++ Program for addition of Two Matrix.
-6. * Write a C++ Program to show Constructor and Destructor Example.
+6. * Write a C++ Program to display current data and time.
 7. * Write a C++ Program to display Student Details using class.
 8. * Write a C++ program to demonstrate an example of single inheritance.
 9. * Write a program in C++ Program to Print Alphabet Triangle. 
