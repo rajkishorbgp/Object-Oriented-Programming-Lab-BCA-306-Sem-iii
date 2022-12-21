@@ -7,20 +7,32 @@
 #include <iostream>
 using namespace std;
 
+class Number
+{
+public:
+    int num;
+    int reverse()
+    {
+        int r, rev = 0;
+        while (num)
+        {
+            r = num % 10;
+            rev = rev * 10 + r;
+            num = num / 10;
+        }
+        return rev;
+    }
+};
+
 int main()
 {
-    int num, r, rev = 0;
+    int num;
     cout << "Enter any integer number: ";
     cin >> num;
 
-    while (num)
-    {
-        r = num % 10;
-        rev = rev * 10 + r;
-        num = num / 10;
-    }
-    cout << "reverse number: " << rev;
-
+    Number n1;
+    n1.num = num;
+    cout << "reverse number: " << n1.reverse();
     return 0;
 }
 
