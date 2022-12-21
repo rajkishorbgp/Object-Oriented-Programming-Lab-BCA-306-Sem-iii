@@ -1,5 +1,5 @@
 /*
-                            peogram: 14
+                        @program: 14
     Write a program in C++ to convert a string of characters into upper or lower case.
 */
 #include <iostream>
