@@ -33,7 +33,7 @@
 23. * Write a C++ program to show how to achieve exceptional handling in C++.
 24. * Write a program in C++ to show the function overriding.
 25. * Write a program in C++ to the virtual function with the help of inheritance
-26. * Write a program in C++ to declare a class of Vehicle. Derived classes aretwo-wheelers, three wheelers. Display the properties of each type of vehicle using the member functions of class.
+26. * Write a program in C++ to declare a class of Vehicle. Derived classes are two-wheelers, three wheelers. Display the properties of each type of vehicle using the member functions of class.
 27. * Write a C++ program display student mark sheet using multiple inheritance.
 28. * Write a C++ program to illustrate the use of pure virtual function in polymorphism.
 29. * Write a program in C++ Program to find Cube Root of Number.
